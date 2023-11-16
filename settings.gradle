@@ -1,0 +1,2 @@
+rootProject.name = 'algoritthms-notes'
+include 'modules:Chapter1'
